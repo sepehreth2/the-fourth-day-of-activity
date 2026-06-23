@@ -5,3 +5,5 @@ the first step is
 explaining
 now we will start
 and move on
+choose the btc as an example
+and try to explore on that
