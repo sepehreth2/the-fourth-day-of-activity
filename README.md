@@ -7,3 +7,5 @@ now we will start
 and move on
 choose the btc as an example
 and try to explore on that
+check its marketcap
+and its value
