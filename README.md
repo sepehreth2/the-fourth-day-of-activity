@@ -9,3 +9,5 @@ choose the btc as an example
 and try to explore on that
 check its marketcap
 and its value
+the second one 
+i can put ETH at the list
