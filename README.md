@@ -11,3 +11,5 @@ check its marketcap
 and its value
 the second one 
 i can put ETH at the list
+then check all
+values and prices
