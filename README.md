@@ -13,3 +13,5 @@ the second one
 i can put ETH at the list
 then check all
 values and prices
+the best refrence for checking
+is the coinmarketcap website
