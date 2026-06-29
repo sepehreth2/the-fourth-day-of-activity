@@ -17,4 +17,7 @@ the best refrence for checking
 is the coinmarketcap website.
 I am a fan of all 
 top coins on the list.
+let pick binance as an example
+for buying and selling tokens.
+
 
