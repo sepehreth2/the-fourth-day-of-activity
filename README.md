@@ -19,5 +19,7 @@ I am a fan of all
 top coins on the list.
 let pick binance as an example
 for buying and selling tokens.
+so charge the dex account 
+with some mony like dollars
 
 
