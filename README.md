@@ -20,6 +20,8 @@ top coins on the list.
 let pick binance as an example
 for buying and selling tokens.
 so charge the dex account 
-with some mony like dollars
+with some money like dollars
+then go to trade part
+and select a token
 
 
