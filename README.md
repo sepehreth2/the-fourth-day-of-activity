@@ -23,5 +23,8 @@ so charge the dex account
 with some money like dollars
 then go to trade part
 and select a token
+to buy it
+and then be ready to transfer them to 
+
 
 
