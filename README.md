@@ -25,6 +25,8 @@ then go to trade part
 and select a token
 to buy it
 and then be ready to transfer them to 
+after this, put your wallet address
+by selecting the correct chain
 
 
 
