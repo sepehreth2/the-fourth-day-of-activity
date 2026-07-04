@@ -27,6 +27,8 @@ to buy it
 and then be ready to transfer them to 
 after this, put your wallet address
 by selecting the correct chain
+then request for a withdraw 
+through the selected chain into the wallet.
 
 
 
