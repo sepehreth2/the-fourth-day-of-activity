@@ -29,6 +29,8 @@ after this, put your wallet address
 by selecting the correct chain
 then request for a withdraw 
 through the selected chain into the wallet.
+after transfer them into the wallet
+you are able to keep them
 
 
 
