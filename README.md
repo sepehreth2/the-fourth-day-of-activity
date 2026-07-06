@@ -31,6 +31,9 @@ then request for a withdraw
 through the selected chain into the wallet.
 after transfer them into the wallet
 you are able to keep them
+save and for the long time
+save them in a private wallet.
+
 
 
 
