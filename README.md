@@ -34,7 +34,10 @@ you are able to keep them
 save and for the long time
 save them in a private wallet.
 choose one wallet which can support
-many tokens and chains like rabby wallet
+many tokens and chains like rabby wallet.
+after that just need to keep tokens into
+the wallet for the years.
+
 
 
 
